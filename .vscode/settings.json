@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.windows": {
+    "DOTNET_ROOT": "C:\\Program Files\\dotnet",
+    "PATH": "C:\\Program Files\\dotnet;${env:PATH}"
+  }
+}
