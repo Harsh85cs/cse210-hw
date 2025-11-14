@@ -22,7 +22,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/week01/Exercise1/Exercise1.csproj",
+                "/week01/Exercise1/Exercise1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

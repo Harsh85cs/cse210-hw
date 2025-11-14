@@ -3,6 +3,7 @@
     "version": "0.2.0",
     "configurations": [
 
+
         {
             "name": "Sandbox Project",
             "type": "coreclr",
@@ -27,7 +28,9 @@
             "cwd": "${workspaceFolder}/week01/Exercise1",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
+
         },
 
         {
@@ -40,7 +43,8 @@
             "cwd": "${workspaceFolder}/week01/Exercise2",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -53,7 +57,8 @@
             "cwd": "${workspaceFolder}/week01/Exercise3",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -66,7 +71,8 @@
             "cwd": "${workspaceFolder}/week01/Exercise4",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -79,7 +85,8 @@
             "cwd": "${workspaceFolder}/week01/Exercise5",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -92,7 +99,8 @@
             "cwd": "${workspaceFolder}/week02/Resumes",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -105,7 +113,8 @@
             "cwd": "${workspaceFolder}/week02/Journal",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -118,7 +127,8 @@
             "cwd": "${workspaceFolder}/week03/Fractions",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -131,7 +141,8 @@
             "cwd": "${workspaceFolder}/week03/ScriptureMemorizer",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -144,7 +155,8 @@
             "cwd": "${workspaceFolder}/week04/YouTubeVideos",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -157,7 +169,8 @@
             "cwd": "${workspaceFolder}/week04/OnlineOrdering",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -170,7 +183,8 @@
             "cwd": "${workspaceFolder}/week05/Homework",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -183,7 +197,8 @@
             "cwd": "${workspaceFolder}/week05/Mindfulness",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -196,7 +211,8 @@
             "cwd": "${workspaceFolder}/week06/Shapes",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -209,7 +225,8 @@
             "cwd": "${workspaceFolder}/week06/EternalQuest",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
         {
@@ -222,7 +239,8 @@
             "cwd": "${workspaceFolder}/week07/ExerciseTracking",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "targetArchitecture": "x86_64"
         },
 
     ]
