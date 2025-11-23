@@ -29,10 +29,18 @@ class Program
         Scripture selectedScripture = scriptures[index];
 
         // Run memorization loop
-        while (!selectedScripture.IsCompletelyHidden())
+        while (true)
         {
             Console.Clear();
             Console.WriteLine(selectedScripture.GetDisplayText());
+
+            if (selectedScripture.IsCompletelyHidden())
+            {
+                Console.WriteLine("\nAll words are hidden. Press Enter to exit.");
+                Console.ReadLine();
+                break;
+            }
+
             Console.WriteLine("\nPress Enter to continue or type 'quit' to exit.");
             string input = Console.ReadLine();
 
@@ -43,11 +51,5 @@ class Program
 
             selectedScripture.HideRandomWords(3);
         }
-
-        Console.Clear();
-        Console.WriteLine("All words are hidden. Goodbye!");
-        Console.WriteLine("Press Enter to exit.");
-        Console.ReadLine(); // Wait for final input before closing
-
     }
 }
